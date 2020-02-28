@@ -1,0 +1,31 @@
+{
+  "name": "12mg_bot",
+  "version": "0.1.0",
+  "description": "pak bot, useful little thing for 12mg official discord",
+  "main": "12mg_bot.js",
+  "dependencies": {
+    "discord-welcome": "^1.5.0",
+    "discord.js": "^11.5.1",
+    "eslint": "^6.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enigmind/12MG_bot.git"
+  },
+  "keywords": [
+    "pak",
+    "12mg",
+    "bot",
+    "discord"
+  ],
+  "author": "Enigmind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enigmind/12MG_bot/issues"
+  },
+  "homepage": "https://github.com/Enigmind/12MG_bot#readme"
+}
