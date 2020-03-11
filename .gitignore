@@ -1,5 +1,8 @@
-#auth key
-auth.json
+#conf file
+config.js
 
 #node modules
 /node_modules
+
+#package lock
+package-lock.json
